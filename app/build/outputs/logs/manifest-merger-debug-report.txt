@@ -1,0 +1,453 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.0.2] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/3040aeb5047385335b592df586460e36/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/5a862ea383af11e3f601142ac98d18a5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f21146a6a127239c0779f7b55f448699/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b6344e52ff166436e97dec449bbe8671/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/e9a5093747ac3504fd6d7b8af8bc748d/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9a1eef896ab0515bf91c6f8a58b668a7/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/15edf6fd8a1c992d4ca1eb940406da3d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/1a528f3ef9779d937317ae93d86b0924/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/81f9b3f8efa1ad8f976acff25545fc36/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/222af75c44b34eee37196ccfc284bb42/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/45a8e6ed7c0547975c1d59d6a2be4af0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8c4a9d385edaf55db1d995003a2336b4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/fb0dcfa47b37b835fa4650fc4aa933d0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c922cd515058cbf14b4104be21e159c1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4f00a4a5dea48d001e02981a3a00af50/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/d6e1ca1785720a6d365e4c4442c7c02a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/0242f5cc671a415bc8f54b96ff6bad70/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c92dd63eef76bab420ee3febcd312246/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8f3a95053afaa2c9b689e6e0fb55e4e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/0592c867b9c5c0abbb1e9987e78bddc0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/117fc4dfdc5d147dc3f14be7817444e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/74282f37c058d9691d64b6eb867ee490/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f936635ceb62425796219cc15fd362d2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/73a770ab199af02973fca9025b042c8c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/ab25e34f2e2d7aaac632dd958f27f2fb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c226ecf8ed308e1cded72b1dde48a1a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/592d6d6df6d0de81ea46819c4fa367ea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/a24390a8ec96f8518dc56a97e0894bf9/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/ea5e03f0d56e03834cb2034defe6dd99/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c8d7ea1ac011eb10a53401eceabc7cae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/6a7e699c331aaa201cf2d7149ff4d2d7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c663130ccd876fb46622c637acb7d9dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/994fc6f2fd8ca5e74a46c55ce9b0c1bd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/883835d9403652c9860f40c2df9eb63f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/15a97ca057c39fe61f56c631a36b29b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/63e181e2f3451daa39cbc87cf51cfa4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/df05750f657b34f1569a199175e9d426/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4a177e67dc9883d15fbc2b4b214eaafd/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/5a862ea383af11e3f601142ac98d18a5/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/5a862ea383af11e3f601142ac98d18a5/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f21146a6a127239c0779f7b55f448699/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f21146a6a127239c0779f7b55f448699/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b6344e52ff166436e97dec449bbe8671/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b6344e52ff166436e97dec449bbe8671/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/e9a5093747ac3504fd6d7b8af8bc748d/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/e9a5093747ac3504fd6d7b8af8bc748d/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9a1eef896ab0515bf91c6f8a58b668a7/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9a1eef896ab0515bf91c6f8a58b668a7/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/15edf6fd8a1c992d4ca1eb940406da3d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/15edf6fd8a1c992d4ca1eb940406da3d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/1a528f3ef9779d937317ae93d86b0924/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/1a528f3ef9779d937317ae93d86b0924/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/81f9b3f8efa1ad8f976acff25545fc36/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/81f9b3f8efa1ad8f976acff25545fc36/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/222af75c44b34eee37196ccfc284bb42/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/222af75c44b34eee37196ccfc284bb42/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8c4a9d385edaf55db1d995003a2336b4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8c4a9d385edaf55db1d995003a2336b4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/fb0dcfa47b37b835fa4650fc4aa933d0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/fb0dcfa47b37b835fa4650fc4aa933d0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c922cd515058cbf14b4104be21e159c1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c922cd515058cbf14b4104be21e159c1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4f00a4a5dea48d001e02981a3a00af50/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4f00a4a5dea48d001e02981a3a00af50/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/a24390a8ec96f8518dc56a97e0894bf9/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/a24390a8ec96f8518dc56a97e0894bf9/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.nineleaps.smarttv.MainActivity
+ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.0.2] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/3040aeb5047385335b592df586460e36/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/3040aeb5047385335b592df586460e36/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/5a862ea383af11e3f601142ac98d18a5/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/5a862ea383af11e3f601142ac98d18a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f21146a6a127239c0779f7b55f448699/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f21146a6a127239c0779f7b55f448699/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b6344e52ff166436e97dec449bbe8671/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b6344e52ff166436e97dec449bbe8671/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/e9a5093747ac3504fd6d7b8af8bc748d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/e9a5093747ac3504fd6d7b8af8bc748d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9a1eef896ab0515bf91c6f8a58b668a7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9a1eef896ab0515bf91c6f8a58b668a7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/15edf6fd8a1c992d4ca1eb940406da3d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/15edf6fd8a1c992d4ca1eb940406da3d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/1a528f3ef9779d937317ae93d86b0924/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/1a528f3ef9779d937317ae93d86b0924/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/81f9b3f8efa1ad8f976acff25545fc36/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/81f9b3f8efa1ad8f976acff25545fc36/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/222af75c44b34eee37196ccfc284bb42/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/222af75c44b34eee37196ccfc284bb42/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/45a8e6ed7c0547975c1d59d6a2be4af0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/45a8e6ed7c0547975c1d59d6a2be4af0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8c4a9d385edaf55db1d995003a2336b4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8c4a9d385edaf55db1d995003a2336b4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/fb0dcfa47b37b835fa4650fc4aa933d0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/fb0dcfa47b37b835fa4650fc4aa933d0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c922cd515058cbf14b4104be21e159c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c922cd515058cbf14b4104be21e159c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4f00a4a5dea48d001e02981a3a00af50/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4f00a4a5dea48d001e02981a3a00af50/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/d6e1ca1785720a6d365e4c4442c7c02a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/d6e1ca1785720a6d365e4c4442c7c02a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/0242f5cc671a415bc8f54b96ff6bad70/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/0242f5cc671a415bc8f54b96ff6bad70/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c92dd63eef76bab420ee3febcd312246/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c92dd63eef76bab420ee3febcd312246/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8f3a95053afaa2c9b689e6e0fb55e4e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8f3a95053afaa2c9b689e6e0fb55e4e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/0592c867b9c5c0abbb1e9987e78bddc0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/0592c867b9c5c0abbb1e9987e78bddc0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/117fc4dfdc5d147dc3f14be7817444e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/117fc4dfdc5d147dc3f14be7817444e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/74282f37c058d9691d64b6eb867ee490/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/74282f37c058d9691d64b6eb867ee490/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f936635ceb62425796219cc15fd362d2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f936635ceb62425796219cc15fd362d2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/73a770ab199af02973fca9025b042c8c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/73a770ab199af02973fca9025b042c8c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/ab25e34f2e2d7aaac632dd958f27f2fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/ab25e34f2e2d7aaac632dd958f27f2fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c226ecf8ed308e1cded72b1dde48a1a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c226ecf8ed308e1cded72b1dde48a1a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/592d6d6df6d0de81ea46819c4fa367ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/592d6d6df6d0de81ea46819c4fa367ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/a24390a8ec96f8518dc56a97e0894bf9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/a24390a8ec96f8518dc56a97e0894bf9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/ea5e03f0d56e03834cb2034defe6dd99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/ea5e03f0d56e03834cb2034defe6dd99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c8d7ea1ac011eb10a53401eceabc7cae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c8d7ea1ac011eb10a53401eceabc7cae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/6a7e699c331aaa201cf2d7149ff4d2d7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/6a7e699c331aaa201cf2d7149ff4d2d7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c663130ccd876fb46622c637acb7d9dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c663130ccd876fb46622c637acb7d9dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/994fc6f2fd8ca5e74a46c55ce9b0c1bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/994fc6f2fd8ca5e74a46c55ce9b0c1bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/883835d9403652c9860f40c2df9eb63f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/883835d9403652c9860f40c2df9eb63f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/15a97ca057c39fe61f56c631a36b29b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/15a97ca057c39fe61f56c631a36b29b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/63e181e2f3451daa39cbc87cf51cfa4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/63e181e2f3451daa39cbc87cf51cfa4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/df05750f657b34f1569a199175e9d426/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/df05750f657b34f1569a199175e9d426/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4a177e67dc9883d15fbc2b4b214eaafd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4a177e67dc9883d15fbc2b4b214eaafd/AndroidManifest.xml:5:5-44
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/222af75c44b34eee37196ccfc284bb42/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/222af75c44b34eee37196ccfc284bb42/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/45a8e6ed7c0547975c1d59d6a2be4af0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/45a8e6ed7c0547975c1d59d6a2be4af0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/222af75c44b34eee37196ccfc284bb42/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/222af75c44b34eee37196ccfc284bb42/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/45a8e6ed7c0547975c1d59d6a2be4af0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/45a8e6ed7c0547975c1d59d6a2be4af0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:26:22-64
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:34:17-107
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/222af75c44b34eee37196ccfc284bb42/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/222af75c44b34eee37196ccfc284bb42/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/45a8e6ed7c0547975c1d59d6a2be4af0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/45a8e6ed7c0547975c1d59d6a2be4af0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8d6dcd0fe794ee9b01cd4239b6e3d56f/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/222af75c44b34eee37196ccfc284bb42/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/222af75c44b34eee37196ccfc284bb42/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/222af75c44b34eee37196ccfc284bb42/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/222af75c44b34eee37196ccfc284bb42/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/8e210a620a10ff57e259e69e9a791264/AndroidManifest.xml:49:13-87
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/1a528f3ef9779d937317ae93d86b0924/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/1a528f3ef9779d937317ae93d86b0924/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/1a528f3ef9779d937317ae93d86b0924/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/1a528f3ef9779d937317ae93d86b0924/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/1a528f3ef9779d937317ae93d86b0924/AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/AndroidManifest.xml:24:13-58
