@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/nineleaps/Documents/AndroidStudioProjects/SmartTVProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
+            "outputFile": "/home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
             "map": [
                 {
                     "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/values-nl/values-nl.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/590c67b6b007d8ea02355e98c6d88553/res/values-nl/values.xml",
+                    "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9f6b9197626531d98039014a17dec986/res/values-nl/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

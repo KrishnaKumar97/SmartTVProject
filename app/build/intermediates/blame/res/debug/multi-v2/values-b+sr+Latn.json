@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/nineleaps/Documents/AndroidStudioProjects/SmartTVProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "outputFile": "/home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
             "map": [
                 {
                     "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/values-b+sr+Latn/values-b+sr+Latn.xml",
@@ -18,23 +18,6 @@
                         "startOffsets": "105,212,313,419,505,609,731,816,899,990,1082,1177,1271,1372,1465,1560,1665,1756,1847,1932,2037,2143,2246,2353,2462,2569,2739,5495",
                         "endColumns": "106,100,105,85,103,121,84,82,90,91,94,93,100,92,94,104,90,90,84,104,105,102,106,108,106,169,96,85",
                         "endOffsets": "207,308,414,500,604,726,811,894,985,1077,1172,1266,1367,1460,1555,1660,1751,1842,1927,2032,2138,2241,2348,2457,2564,2734,2831,5576"
-                    }
-                },
-                {
-                    "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/590c67b6b007d8ea02355e98c6d88553/res/values-b+sr+Latn/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "254",
-                        "endColumns": "188",
-                        "endOffsets": "442"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "3987",
-                        "endColumns": "188",
-                        "endOffsets": "4171"
                     }
                 },
                 {
@@ -69,6 +52,23 @@
                         "startOffsets": "5581",
                         "endColumns": "100",
                         "endOffsets": "5677"
+                    }
+                },
+                {
+                    "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9f6b9197626531d98039014a17dec986/res/values-b+sr+Latn/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "254",
+                        "endColumns": "188",
+                        "endOffsets": "442"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3987",
+                        "endColumns": "188",
+                        "endOffsets": "4171"
                     }
                 }
             ]

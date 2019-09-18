@@ -11,7 +11,7 @@ class MainActivityViewModel : ViewModel() {
 
     val TAG = "MainActivityViewModel"
 
-    val firebaseCalls = FireBaseCalls()
+    private val fireBaseCalls = FireBaseCalls()
 
     var dataToDisplay = MutableLiveData<DeviceDataModel>()
 
@@ -22,7 +22,7 @@ class MainActivityViewModel : ViewModel() {
      * register device to database
      */
     fun pushDeviceKeyToDataBase() {
-        firebaseCalls.registerDevice(object : ObjectCallback<String> {
+        fireBaseCalls.registerDevice(object : ObjectCallback<String> {
             override fun onFailure(e: Exception) {
                 Log.e(TAG, e?.message)
             }
@@ -35,8 +35,18 @@ class MainActivityViewModel : ViewModel() {
         deviceKey.postValue("")
     }
 
-    fun getDataForTheDevice() {
-        //dataToDisplay.postValue()
+    fun getDataForTheDevice(deviceKey: String) {
+        fireBaseCalls.fetchDataForDevice(deviceKey, object : ObjectCallback<DeviceDataModel> {
+            override fun onSuccess(`object`: DeviceDataModel) {
+
+            }
+
+            override fun onFailure(e: Exception) {
+
+            }
+
+        })
+
     }
 
 
