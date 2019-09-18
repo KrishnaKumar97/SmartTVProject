@@ -1,5 +1,9 @@
 #Internal package file, do not edit.
+<<<<<<< HEAD
 #Wed Sep 18 18:35:25 IST 2019
+=======
+#Wed Sep 18 18:16:35 IST 2019
+>>>>>>> 99be1322f55569888a8dafab9763bf22ec11d676
 0.baseType=DIRECTORY
 0.base=/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex

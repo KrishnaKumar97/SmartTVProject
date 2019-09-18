@@ -3,6 +3,7 @@ package com.nineleaps.smarttv.viewModel
 import android.util.Log
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+import com.google.firebase.database.DatabaseReference
 import com.nineleaps.smarttv.model.DeviceDataModel
 import com.nineleaps.smarttv.utility.FireBaseCalls
 import com.nineleaps.smarttv.utility.ObjectCallback
@@ -10,6 +11,8 @@ import com.nineleaps.smarttv.utility.ObjectCallback
 class MainActivityViewModel : ViewModel() {
 
     val TAG = "MainActivityViewModel"
+
+    private var databaseReference: DatabaseReference? = null
 
     private val fireBaseCalls = FireBaseCalls()
 
@@ -35,18 +38,31 @@ class MainActivityViewModel : ViewModel() {
         deviceKey.postValue("")
     }
 
+    /**
+     * @param deviceKey
+     * make call to get data for the device
+     */
     fun getDataForTheDevice(deviceKey: String) {
-        fireBaseCalls.fetchDataForDevice(deviceKey, object : ObjectCallback<DeviceDataModel> {
-            override fun onSuccess(`object`: DeviceDataModel) {
-
+        databaseReference = fireBaseCalls.fetchDeviceData(deviceKey, object : ObjectCallback<DeviceDataModel?> {
+            override fun onSuccess(data: DeviceDataModel?) {
+                dataToDisplay.postValue(data)
             }
 
             override fun onFailure(e: Exception) {
-
+                Log.e(TAG, e?.message)
             }
 
         })
 
+    }
+
+    /**
+     * remove database listener
+     */
+    fun removeListener() {
+        if(databaseReference != null) {
+            fireBaseCalls.removeListener(databaseReference!!)
+        }
     }
 
 

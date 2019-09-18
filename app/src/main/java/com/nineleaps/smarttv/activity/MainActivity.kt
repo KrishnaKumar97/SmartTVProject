@@ -45,10 +45,11 @@ class MainActivity : AppCompatActivity() {
      * make call to fire-base to get the data for the device
      */
     private fun makeCallToGetDataForDevice() {
-        val deviceKey = getSharedPreferences(getString(R.string.preference), Context.MODE_PRIVATE).getString(
-            getString(R.string.device_key),
-            getString(R.string.not_set)
-        )
+        val deviceKey =
+            getSharedPreferences(getString(R.string.preference), Context.MODE_PRIVATE).getString(
+                getString(R.string.device_key),
+                getString(R.string.not_set)
+            )
         if (deviceKey != null && deviceKey != getString(R.string.not_set)) {
             smartTVViewModel?.getDataForTheDevice(deviceKey)
         }
@@ -60,7 +61,10 @@ class MainActivity : AppCompatActivity() {
      */
     private fun checkForTVSetup() {
         val deviceKey =
-            getSharedPreferences(getString(R.string.preference), Context.MODE_PRIVATE).getString(getString(R.string.device_key), getString(R.string.not_set))
+            getSharedPreferences(getString(R.string.preference), Context.MODE_PRIVATE).getString(
+                getString(R.string.device_key),
+                getString(R.string.not_set)
+            )
         if (deviceKey != getString(R.string.not_set)) {
             // make call to push device key
             makeCallToGetDataForDevice()
@@ -89,6 +93,9 @@ class MainActivity : AppCompatActivity() {
         })
     }
 
+    /**
+     * observe Data for data to be displayed on device
+     */
     private fun observerForDeviceData() {
         smartTVViewModel?.dataToDisplay?.observe(this, Observer {
             if (it == null) {
@@ -159,5 +166,10 @@ class MainActivity : AppCompatActivity() {
      */
     fun getListOfImageUrl(): ArrayList<String> {
         return arrayListOfImageUrl
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        smartTVViewModel?.removeListener()
     }
 }
