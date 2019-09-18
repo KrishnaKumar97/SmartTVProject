@@ -3,7 +3,6 @@ package com.nineleaps.smarttv.activity
 import android.annotation.SuppressLint
 import android.content.Context
 import android.os.Bundle
-import android.widget.FrameLayout
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
@@ -19,8 +18,6 @@ class MainActivity : AppCompatActivity() {
 
     private var smartTVViewModel: MainActivityViewModel? = null
 
-    lateinit var frameLayout: FrameLayout
-
     var arrayListOfImageUrl = ArrayList<String>()
 
     var webUrl = ""
@@ -28,7 +25,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        frameLayout = findViewById(R.id.fragment_container)
         initViewModel()
         checkForTVSetup()
         observeDataForNewDeviceKey()
@@ -67,7 +63,6 @@ class MainActivity : AppCompatActivity() {
                 getString(R.string.not_set)
             )
         if (deviceKey != getString(R.string.not_set)) {
-            // make call to push device key
             makeCallToGetDataForDevice()
         } else {
             makeCallToRegisterDevice()
@@ -90,7 +85,6 @@ class MainActivity : AppCompatActivity() {
                 storeKeyToSharedPreference(it)
             }
             makeCallToGetDataForDevice()
-            // Todo store device key to sharedpreference and make call to get data for the device
         })
     }
 
