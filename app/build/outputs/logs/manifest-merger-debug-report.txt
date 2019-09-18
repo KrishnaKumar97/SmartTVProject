@@ -1,18 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.0.2] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/3040aeb5047385335b592df586460e36/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/5a862ea383af11e3f601142ac98d18a5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.JakeWharton:ViewPagerIndicator:2.4.1] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/950fc65490929496a115d679c278f999/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-core:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f21146a6a127239c0779f7b55f448699/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b6344e52ff166436e97dec449bbe8671/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:15:1-39:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/aa9f671e3aa0c607f83e64ad582ff68b/AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b3f4c23653bbef06fc3f82f8a49e4e21/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/e9a5093747ac3504fd6d7b8af8bc748d/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/261ecea83886a7643bcba1567a182d13/AndroidManifest.xml:17:1-36:12
@@ -29,7 +31,7 @@ MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/fb0dcfa47b37b835fa4650fc4aa933d0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c922cd515058cbf14b4104be21e159c1/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4f00a4a5dea48d001e02981a3a00af50/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9f6b9197626531d98039014a17dec986/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/d6e1ca1785720a6d365e4c4442c7c02a/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/0242f5cc671a415bc8f54b96ff6bad70/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/a65ae932262137acc2cc1b36655bdc73/AndroidManifest.xml:17:1-22:12
@@ -49,6 +51,7 @@ MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ninel
 MERGED from [androidx.core:core:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c226ecf8ed308e1cded72b1dde48a1a9/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/592d6d6df6d0de81ea46819c4fa367ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/87f5d2c0bb2e603d83cfbb6535f7c814/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/15a97ca057c39fe61f56c631a36b29b5/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/63e181e2f3451daa39cbc87cf51cfa4a/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/df05750f657b34f1569a199175e9d426/AndroidManifest.xml:17:1-22:12
@@ -62,25 +65,25 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nineleaps/.gradle
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c8d7ea1ac011eb10a53401eceabc7cae/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/6a7e699c331aaa201cf2d7149ff4d2d7/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4a177e67dc9883d15fbc2b4b214eaafd/AndroidManifest.xml:2:1-7:12
-INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:3:5-36
-		INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml
-		INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml
-		ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml
-		ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:5:5-22:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/5a862ea383af11e3f601142ac98d18a5/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/5a862ea383af11e3f601142ac98d18a5/AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-core:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f21146a6a127239c0779f7b55f448699/AndroidManifest.xml:7:5-20
@@ -93,6 +96,8 @@ MERGED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.grad
 MERGED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:29:5-37:19
 MERGED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:29:5-37:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/aa9f671e3aa0c607f83e64ad582ff68b/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/aa9f671e3aa0c607f83e64ad582ff68b/AndroidManifest.xml:10:5-20
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b3f4c23653bbef06fc3f82f8a49e4e21/AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b3f4c23653bbef06fc3f82f8a49e4e21/AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/e9a5093747ac3504fd6d7b8af8bc748d/AndroidManifest.xml:7:5-8:19
@@ -123,10 +128,12 @@ MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/ni
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c922cd515058cbf14b4104be21e159c1/AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4f00a4a5dea48d001e02981a3a00af50/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4f00a4a5dea48d001e02981a3a00af50/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9f6b9197626531d98039014a17dec986/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9f6b9197626531d98039014a17dec986/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/87f5d2c0bb2e603d83cfbb6535f7c814/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/87f5d2c0bb2e603d83cfbb6535f7c814/AndroidManifest.xml:9:5-20
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/a24390a8ec96f8518dc56a97e0894bf9/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/a24390a8ec96f8518dc56a97e0894bf9/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b8fc6e6cb05750cade5d8191446e719e/AndroidManifest.xml:22:5-28:19
@@ -134,41 +141,47 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/nineleaps/.gradle
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.nineleaps.smarttv.activity.MainActivity
-ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:14:13-50
+	android:theme
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:15:13-44
 	android:name
-		ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:12:19-56
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:13:13-50
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml:19:27-74
 uses-sdk
-INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml
-INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.0.2] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/3040aeb5047385335b592df586460e36/AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-ktx:1.0.2] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/3040aeb5047385335b592df586460e36/AndroidManifest.xml:5:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/5a862ea383af11e3f601142ac98d18a5/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/5a862ea383af11e3f601142ac98d18a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.JakeWharton:ViewPagerIndicator:2.4.1] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.JakeWharton:ViewPagerIndicator:2.4.1] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/950fc65490929496a115d679c278f999/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/950fc65490929496a115d679c278f999/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-core:17.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f21146a6a127239c0779f7b55f448699/AndroidManifest.xml:5:5-44
@@ -181,6 +194,8 @@ MERGED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.grad
 MERGED from [com.google.firebase:firebase-database:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b345875cad412a211784c80b2ac89946/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-storage:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/80c6b2be7943f76ed080ff8c5e3dc6af/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/aa9f671e3aa0c607f83e64ad582ff68b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/aa9f671e3aa0c607f83e64ad582ff68b/AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b3f4c23653bbef06fc3f82f8a49e4e21/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b3f4c23653bbef06fc3f82f8a49e4e21/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/e9a5093747ac3504fd6d7b8af8bc748d/AndroidManifest.xml:5:5-44
@@ -213,8 +228,8 @@ MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/ni
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c922cd515058cbf14b4104be21e159c1/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4f00a4a5dea48d001e02981a3a00af50/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4f00a4a5dea48d001e02981a3a00af50/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9f6b9197626531d98039014a17dec986/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9f6b9197626531d98039014a17dec986/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/d6e1ca1785720a6d365e4c4442c7c02a/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/d6e1ca1785720a6d365e4c4442c7c02a/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/0242f5cc671a415bc8f54b96ff6bad70/AndroidManifest.xml:20:5-22:41
@@ -253,6 +268,8 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nineleaps/.gradle
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/c226ecf8ed308e1cded72b1dde48a1a9/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/592d6d6df6d0de81ea46819c4fa367ea/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/592d6d6df6d0de81ea46819c4fa367ea/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/87f5d2c0bb2e603d83cfbb6535f7c814/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/87f5d2c0bb2e603d83cfbb6535f7c814/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/15a97ca057c39fe61f56c631a36b29b5/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/15a97ca057c39fe61f56c631a36b29b5/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/63e181e2f3451daa39cbc87cf51cfa4a/AndroidManifest.xml:20:5-44
@@ -279,16 +296,16 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nineleaps/.gradle/cache
 MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/6a7e699c331aaa201cf2d7149ff4d2d7/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4a177e67dc9883d15fbc2b4b214eaafd/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/4a177e67dc9883d15fbc2b4b214eaafd/AndroidManifest.xml:5:5-44
-INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml
-INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml
-		ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml
-		INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml
-		ADDED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml
-		INJECTED from /home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/AndroidManifest.xml
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/f752f065939e05046c1d2797fac426bb/AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
@@ -480,11 +497,11 @@ ADDED from [com.google.firebase:firebase-common:19.0.0] /home/nineleaps/.gradle/
 	android:name
 		ADDED from [com.google.firebase:firebase-common:19.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/1a528f3ef9779d937317ae93d86b0924/AndroidManifest.xml:13:13-77
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9f6b9197626531d98039014a17dec986/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9f6b9197626531d98039014a17dec986/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/9f6b9197626531d98039014a17dec986/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/AndroidManifest.xml:24:13-58
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/nineleaps/.gradle/caches/transforms-2/files-2.1/b8fc6e6cb05750cade5d8191446e719e/AndroidManifest.xml:23:9-27:43
 	android:authorities

@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "/home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
+            "outputFile": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
             "map": [
+                {
+                    "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/res/values-it/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "194",
+                        "endOffsets": "441"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3956",
+                        "endColumns": "194",
+                        "endOffsets": "4146"
+                    }
+                },
                 {
                     "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/res/values-it/values.xml",
                     "from": {
@@ -18,23 +35,6 @@
                         "startOffsets": "2799,2906,3089,3216,3326,3543,3673,3823,4151,4367,4476,4661,4790,5005,5216,5313,5404",
                         "endColumns": "106,182,126,109,216,129,149,132,215,108,184,128,214,210,96,90,105",
                         "endOffsets": "2901,3084,3211,3321,3538,3668,3818,3951,4362,4471,4656,4785,5000,5211,5308,5399,5505"
-                    }
-                },
-                {
-                    "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9f6b9197626531d98039014a17dec986/res/values-it/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "194",
-                        "endOffsets": "441"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "3956",
-                        "endColumns": "194",
-                        "endOffsets": "4146"
                     }
                 },
                 {

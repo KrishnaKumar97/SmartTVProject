@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
                     "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/res/values-fr-rCA/values.xml",
@@ -21,6 +21,23 @@
                     }
                 },
                 {
+                    "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/res/values-fr-rCA/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "219",
+                        "endOffsets": "470"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "4076",
+                        "endColumns": "219",
+                        "endOffsets": "4291"
+                    }
+                },
+                {
                     "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/res/values-fr-rCA/values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
@@ -35,23 +52,6 @@
                         "startOffsets": "5842",
                         "endColumns": "100",
                         "endOffsets": "5938"
-                    }
-                },
-                {
-                    "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9f6b9197626531d98039014a17dec986/res/values-fr-rCA/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "251",
-                        "endColumns": "219",
-                        "endOffsets": "470"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "4076",
-                        "endColumns": "219",
-                        "endOffsets": "4291"
                     }
                 },
                 {

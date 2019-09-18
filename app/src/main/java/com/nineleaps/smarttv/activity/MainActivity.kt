@@ -10,8 +10,9 @@ import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentTransaction
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
-import com.nineleaps.smarttv.Fragment.WebViewFragment
+import com.nineleaps.smarttv.fragment.WebViewFragment
 import com.nineleaps.smarttv.R
+import com.nineleaps.smarttv.fragment.ImageSliderFragment
 import com.nineleaps.smarttv.model.DeviceDataModel
 import com.nineleaps.smarttv.viewModel.MainActivityViewModel
 
@@ -19,7 +20,6 @@ class MainActivity : AppCompatActivity() {
 
     private var smartTVViewModel: MainActivityViewModel? = null
 
-    lateinit var frameLayout: FrameLayout
 
     var arrayListOfImageUrl = ArrayList<String>()
 
@@ -28,7 +28,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        frameLayout = findViewById(R.id.fragment_container)
         initViewModel()
         checkForTVSetup()
         observeDataForNewDeviceKey()

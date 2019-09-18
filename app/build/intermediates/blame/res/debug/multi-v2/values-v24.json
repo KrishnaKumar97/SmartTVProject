@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/98904e6834aa97bf769a925385b7b8e8/res/values-v24/values-v24.xml",

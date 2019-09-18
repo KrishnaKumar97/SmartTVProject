@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "/home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
+            "outputFile": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
             "map": [
+                {
+                    "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/dc66c5da46cd7d1f224cd7829708176a/res/values-pt-rPT/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "203",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "4037",
+                        "endColumns": "203",
+                        "endOffsets": "4236"
+                    }
+                },
                 {
                     "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/res/values-pt-rPT/values.xml",
                     "from": {
@@ -35,23 +52,6 @@
                         "startOffsets": "105,213,319,426,515,616,740,825,906,998,1091,1188,1282,1382,1476,1572,1667,1759,1851,1935,2042,2153,2255,2363,2471,2578,2749,5671",
                         "endColumns": "107,105,106,88,100,123,84,80,91,92,96,93,99,93,95,94,91,91,83,106,110,101,107,107,106,170,98,84",
                         "endOffsets": "208,314,421,510,611,735,820,901,993,1086,1183,1277,1377,1471,1567,1662,1754,1846,1930,2037,2148,2250,2358,2466,2573,2744,2843,5751"
-                    }
-                },
-                {
-                    "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9f6b9197626531d98039014a17dec986/res/values-pt-rPT/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "251",
-                        "endColumns": "203",
-                        "endOffsets": "454"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "4037",
-                        "endColumns": "203",
-                        "endOffsets": "4236"
                     }
                 },
                 {
