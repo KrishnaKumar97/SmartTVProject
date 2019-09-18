@@ -4,17 +4,7 @@
             "outputFile": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/values-v24/values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
-                    }
-                },
-                {
-                    "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/c24c7a40500beb2432f8cb83c0618815/res/values-v24/values-v24.xml",
+                    "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/98904e6834aa97bf769a925385b7b8e8/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -28,6 +18,16 @@
                         "startOffsets": "347,413,474,540",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "408,469,535,602"
+                    }
+                },
+                {
+                    "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
                     }
                 }
             ]

@@ -1006,6 +1006,7 @@ id underline
 id uniform
 id up
 id useLogo
+id web_view
 id wide
 id withText
 id wrap
@@ -1059,6 +1060,7 @@ layout abc_tooltip
 layout activity_main
 layout custom_dialog
 layout fragment_image_slider
+layout fragment_web_view
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
@@ -1134,6 +1136,7 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
+string hello_blank_fragment
 string project_id
 string search_menu_title
 string status_bar_notification_info_overflow
