@@ -1,6 +1,0 @@
-/home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/java/com/nineleaps/smarttv/Fragment/WebViewFragment.kt
-/home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/java/com/nineleaps/smarttv/activity/MainActivity.kt
-/home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/java/com/nineleaps/smarttv/utility/ObjectCallBack.kt
-/home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/java/com/nineleaps/smarttv/utility/FireBaseCalls.kt
-/home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/java/com/nineleaps/smarttv/model/DeviceDataModel.kt
-/home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/src/main/java/com/nineleaps/smarttv/viewModel/MainActivityViewModel.kt
