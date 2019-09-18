@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "83950510397",
+    "firebase_url": "https://smarttv-7ea65.firebaseio.com",
+    "project_id": "smarttv-7ea65",
+    "storage_bucket": "smarttv-7ea65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83950510397:android:1dcf531e799c45e26ea554",
+        "android_client_info": {
+          "package_name": "com.nineleaps.smarttv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83950510397-c69lfr031antl1ttp6noiv2fsl8oqtfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzDOuTMBrUsxQWa09CSRoXYafDDY83XNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83950510397-c69lfr031antl1ttp6noiv2fsl8oqtfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
