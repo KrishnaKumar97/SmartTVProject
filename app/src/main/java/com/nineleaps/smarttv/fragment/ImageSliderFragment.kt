@@ -10,6 +10,7 @@ import androidx.viewpager.widget.ViewPager
 import com.nineleaps.smarttv.R
 import com.nineleaps.smarttv.activity.MainActivity
 import com.nineleaps.smarttv.adapters.SlidingImageAdapter
+import com.viewpagerindicator.CirclePageIndicator
 import java.util.*
 
 class ImageSliderFragment : Fragment() {
@@ -62,6 +63,7 @@ class ImageSliderFragment : Fragment() {
      */
     private fun setListenerForIndicators() {
         val indicator = activity!!.findViewById(R.id.image_slider_indicator)
+                as CirclePageIndicator
         val density = resources.displayMetrics.density
 
         indicator.setViewPager(mPager)

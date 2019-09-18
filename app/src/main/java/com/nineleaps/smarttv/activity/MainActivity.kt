@@ -12,6 +12,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import com.nineleaps.smarttv.fragment.WebViewFragment
 import com.nineleaps.smarttv.R
+import com.nineleaps.smarttv.fragment.ImageSliderFragment
 import com.nineleaps.smarttv.model.DeviceDataModel
 import com.nineleaps.smarttv.viewModel.MainActivityViewModel
 
@@ -19,7 +20,6 @@ class MainActivity : AppCompatActivity() {
 
     private var smartTVViewModel: MainActivityViewModel? = null
 
-    lateinit var frameLayout: FrameLayout
 
     var arrayListOfImageUrl = ArrayList<String>()
 
@@ -28,7 +28,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        frameLayout = findViewById(R.id.fragment_container)
         initViewModel()
         checkForTVSetup()
         observeDataForNewDeviceKey()
@@ -46,7 +45,13 @@ class MainActivity : AppCompatActivity() {
      * make call to fire-base to get the data for the device
      */
     private fun makeCallToGetDataForDevice() {
-        smartTVViewModel?.getDataForTheDevice()
+        val deviceKey = getSharedPreferences(getString(R.string.preference), Context.MODE_PRIVATE).getString(
+            getString(R.string.device_key),
+            getString(R.string.not_set)
+        )
+        if (deviceKey != null && deviceKey != getString(R.string.not_set)) {
+            smartTVViewModel?.getDataForTheDevice(deviceKey)
+        }
     }
 
     /**
@@ -55,8 +60,8 @@ class MainActivity : AppCompatActivity() {
      */
     private fun checkForTVSetup() {
         val deviceKey =
-            getSharedPreferences("Preference", Context.MODE_PRIVATE).getString("", "Not-Set")
-        if (deviceKey != "Not-Set") {
+            getSharedPreferences(getString(R.string.preference), Context.MODE_PRIVATE).getString(getString(R.string.device_key), getString(R.string.not_set))
+        if (deviceKey != getString(R.string.not_set)) {
             // make call to push device key
             makeCallToGetDataForDevice()
         } else {
@@ -99,26 +104,26 @@ class MainActivity : AppCompatActivity() {
      */
     @SuppressLint("CommitPrefEdits")
     private fun storeKeyToSharedPreference(deviceKey: String) {
-        getSharedPreferences("Preference", Context.MODE_PRIVATE).edit()
-            .putString("DEVICE_KEY", deviceKey)
+        getSharedPreferences(getString(R.string.preference), Context.MODE_PRIVATE).edit()
+            .putString(getString(R.string.device_key), deviceKey)
     }
 
     /**
      * function check for the content type and load fragment according to that
      */
     private fun checkForTheContentType(deviceData: DeviceDataModel) {
-        if (deviceData.isEnabled) {
+        if (deviceData.isEnabled!!) {
             if (deviceData.whatToShow == "images") {
                 // viewpager
                 arrayListOfImageUrl.clear()
-                arrayListOfImageUrl.addAll(deviceData.images)
+                arrayListOfImageUrl.addAll(deviceData.images!!)
                 loadFragment(Fragment())
             } else {
-                webUrl = deviceData.url
+                webUrl = deviceData.url!!
                 loadFragment(WebViewFragment())
             }
         } else {
-            webUrl = deviceData.defaultImageUrl
+            webUrl = deviceData.defaultImageUrl!!
             loadFragment(WebViewFragment())
         }
     }

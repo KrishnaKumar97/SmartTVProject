@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 [{"name":"main","index":0,"scopes":["EXTERNAL_LIBRARIES","PROJECT","MAIN_SPLIT","SUB_PROJECTS"],"types":["DEX"],"format":"DIRECTORY","present":true}]
+=======
+[{"name":"main","index":0,"scopes":["PROJECT","SUB_PROJECTS","EXTERNAL_LIBRARIES","MAIN_SPLIT"],"types":["DEX"],"format":"DIRECTORY","present":true}]
+>>>>>>> 04429f4514ec195547cd62bdd92b520597213cd7
