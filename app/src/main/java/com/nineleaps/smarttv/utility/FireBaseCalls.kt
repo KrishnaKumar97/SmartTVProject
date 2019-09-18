@@ -19,7 +19,7 @@ class FireBaseCalls {
 
         if (key != null) {
             myRef.child(key).child("defaultImageUrl").setValue("https://www.nineleaps.com")
-            myRef.child(key).child("images").setValue("")
+            myRef.child(key).child("images").setValue(ArrayList<String>())
             myRef.child(key).child("isEnabled").setValue(false)
             myRef.child(key).child("location").setValue("")
             myRef.child(key).child("name").setValue("")
@@ -48,6 +48,7 @@ class FireBaseCalls {
             override fun onDataChange(snapshot: DataSnapshot) {
                 if (snapshot.exists()) {
                     val result = snapshot.getValue(DeviceDataModel::class.java)
+                    result?.isEnabled = snapshot.child("isEnabled").value as Boolean?
                     callback.onSuccess(result)
                 } else
                     callback.onSuccess(null)

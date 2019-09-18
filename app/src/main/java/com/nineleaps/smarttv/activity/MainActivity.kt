@@ -3,14 +3,16 @@ package com.nineleaps.smarttv.activity
 import android.annotation.SuppressLint
 import android.content.Context
 import android.os.Bundle
+import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentTransaction
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
-import com.nineleaps.smarttv.Fragment.WebViewFragment
 import com.nineleaps.smarttv.R
+import com.nineleaps.smarttv.fragment.ImageSliderFragment
+import com.nineleaps.smarttv.fragment.WebViewFragment
 import com.nineleaps.smarttv.model.DeviceDataModel
 import com.nineleaps.smarttv.viewModel.MainActivityViewModel
 
@@ -83,8 +85,10 @@ class MainActivity : AppCompatActivity() {
         smartTVViewModel?.deviceKey?.observe(this, Observer {
             if (it != null) {
                 storeKeyToSharedPreference(it)
+                makeCallToGetDataForDevice()
+            } else {
+                makeCallToRegisterDevice()
             }
-            makeCallToGetDataForDevice()
         })
     }
 
@@ -107,7 +111,7 @@ class MainActivity : AppCompatActivity() {
     @SuppressLint("CommitPrefEdits")
     private fun storeKeyToSharedPreference(deviceKey: String) {
         getSharedPreferences(getString(R.string.preference), Context.MODE_PRIVATE).edit()
-            .putString(getString(R.string.device_key), deviceKey)
+            .putString(getString(R.string.device_key), deviceKey).apply()
     }
 
     /**
@@ -118,8 +122,13 @@ class MainActivity : AppCompatActivity() {
             if (deviceData.whatToShow == "images") {
                 // viewpager
                 arrayListOfImageUrl.clear()
-                arrayListOfImageUrl.addAll(deviceData.images!!)
-                loadFragment(Fragment())
+                if (deviceData.images != null) {
+                    arrayListOfImageUrl.addAll(deviceData.images!!)
+                    loadFragment(ImageSliderFragment())
+                } else {
+                    webUrl = deviceData.defaultImageUrl!!
+                    loadFragment(WebViewFragment())
+                }
             } else {
                 webUrl = deviceData.url!!
                 loadFragment(WebViewFragment())

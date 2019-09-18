@@ -27,7 +27,7 @@ class MainActivityViewModel : ViewModel() {
     fun pushDeviceKeyToDataBase() {
         fireBaseCalls.registerDevice(object : ObjectCallback<String> {
             override fun onFailure(e: Exception) {
-                Log.e(TAG, e?.message)
+                Log.e(TAG, e.message)
             }
 
             override fun onSuccess(key: String) {
