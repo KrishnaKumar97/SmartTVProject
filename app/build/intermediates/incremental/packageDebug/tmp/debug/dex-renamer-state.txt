@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-#Wed Sep 18 17:53:43 IST 2019
+#Wed Sep 18 18:35:25 IST 2019
 base.0=/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/transforms/dexMerger/debug/0
-=======
-#Wed Sep 18 18:04:02 IST 2019
-base.0=/home/nineleaps/Documents/SmartTVApp/SmartTVProject/app/build/intermediates/transforms/dexMerger/debug/0
->>>>>>> 04429f4514ec195547cd62bdd92b520597213cd7
 path.0=classes.dex
 renamed.0=classes.dex
