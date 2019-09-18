@@ -20,20 +20,20 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/res/layout-v21/notification_template_custom_big.xml"
-    },
-    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
-        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/layout/abc_action_mode_bar.xml"
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/layout/abc_action_mode_bar.xml"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -44,12 +44,12 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_disabled.xml.flat",
-        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/res/drawable/common_google_signin_btn_icon_disabled.xml"
-    },
-    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/res/drawable/common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_header_item_layout.xml.flat",
@@ -64,12 +64,12 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/anim_btn_radio_to_off_mtrl_dot_group_animation.xml.flat",
-        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
-    },
-    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/anim_btn_radio_to_off_mtrl_dot_group_animation.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
@@ -80,12 +80,12 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
-        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/res/color/common_google_signin_btn_text_light.xml"
-    },
-    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/res/color/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/anim_btn_checkbox_to_checked_box_inner_merged_animation.xml.flat",
@@ -144,6 +144,10 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/color_vpi__dark_theme.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/color/vpi__dark_theme.xml"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_dark.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/color/abc_background_cache_hint_selector_material_dark.xml"
     },
@@ -156,12 +160,12 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -172,20 +176,20 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_text_material.xml.flat",
-        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/color-v23/abc_btn_colored_text_material.xml"
-    },
-    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
-        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_text_material.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable_abc_ic_voice_search_api_material.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
@@ -194,6 +198,10 @@
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/c24c7a40500beb2432f8cb83c0618815/res/layout/notification_template_media_custom.xml"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -220,12 +228,12 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
-        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/anim/abc_fade_out.xml"
-    },
-    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
@@ -244,12 +252,12 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
-        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/res/layout/notification_template_part_time.xml"
-    },
-    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
@@ -324,6 +332,10 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_vpi__tab_selected_focused_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-xhdpi-v4/vpi__tab_selected_focused_holo.9.png"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable_btn_radio_off_to_on_mtrl_animation.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable/btn_radio_off_to_on_mtrl_animation.xml"
     },
@@ -334,6 +346,10 @@
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/anim_btn_checkbox_to_unchecked_box_inner_merged_animation.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/c24c7a40500beb2432f8cb83c0618815/res/layout/notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
@@ -392,12 +408,12 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
-    },
-    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
         "source": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
@@ -424,12 +440,16 @@
         "source": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
-        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_vpi__tab_unselected_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-xhdpi-v4/vpi__tab_unselected_holo.9.png"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -438,6 +458,10 @@
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/c24c7a40500beb2432f8cb83c0618815/res/layout/notification_template_media.xml"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -460,6 +484,10 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_vpi__tab_unselected_focused_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-xhdpi-v4/vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
@@ -472,16 +500,20 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_vpi__tab_selected_pressed_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-hdpi-v4/vpi__tab_selected_pressed_holo.9.png"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -492,12 +524,12 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -684,6 +716,14 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_slidingimages_layout.xml.flat",
+        "source": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/res/layout/slidingimages_layout.xml"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_vpi__tab_unselected_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-mdpi-v4/vpi__tab_unselected_holo.9.png"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_abc_tooltip.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/layout/abc_tooltip.xml"
     },
@@ -808,6 +848,10 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/c24c7a40500beb2432f8cb83c0618815/res/layout/notification_media_cancel_action.xml"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/res/drawable/notification_bg.xml"
     },
@@ -858,6 +902,10 @@
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_vpi__tab_selected_pressed_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-xhdpi-v4/vpi__tab_selected_pressed_holo.9.png"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/color_abc_search_url_text.xml.flat",
@@ -916,6 +964,10 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/res/layout/notification_template_icon_group.xml"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_vpi__tab_selected_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-hdpi-v4/vpi__tab_selected_holo.9.png"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
     },
@@ -940,6 +992,10 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_vpi__tab_selected_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-xhdpi-v4/vpi__tab_selected_holo.9.png"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
         "source": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
@@ -958,6 +1014,10 @@
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_vpi__tab_unselected_focused_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-hdpi-v4/vpi__tab_unselected_focused_holo.9.png"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -1000,6 +1060,10 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_fragment_image_slider.xml.flat",
+        "source": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/res/layout/fragment_image_slider.xml"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/041c0e918037b2c8db2df9a6e6841676/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
@@ -1014,6 +1078,10 @@
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_vpi__tab_selected_pressed_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-mdpi-v4/vpi__tab_selected_pressed_holo.9.png"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-v21_abc_list_divider_material.xml.flat",
@@ -1042,6 +1110,10 @@
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_vpi__tab_selected_focused_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-mdpi-v4/vpi__tab_selected_focused_holo.9.png"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
@@ -1224,6 +1296,10 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_vpi__tab_unselected_pressed_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-hdpi-v4/vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
@@ -1254,6 +1330,10 @@
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/c24c7a40500beb2432f8cb83c0618815/res/layout/notification_template_lines_media.xml"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -1302,6 +1382,10 @@
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/c24c7a40500beb2432f8cb83c0618815/res/layout/notification_media_action.xml"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -1436,6 +1520,10 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/c24c7a40500beb2432f8cb83c0618815/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -1468,8 +1556,16 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/res/drawable-hdpi-v4/googleg_standard_color_18.png"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_vpi__tab_unselected_focused_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-mdpi-v4/vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_vpi__tab_unselected_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-hdpi-v4/vpi__tab_unselected_holo.9.png"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -1524,6 +1620,10 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/color_vpi__light_theme.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/color/vpi__light_theme.xml"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
@@ -1552,12 +1652,20 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/c24c7a40500beb2432f8cb83c0618815/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/55dd2e945b7ed5c28aa8e47198766462/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_vpi__tab_unselected_pressed_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-mdpi-v4/vpi__tab_unselected_pressed_holo.9.png"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -1644,6 +1752,10 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_vpi__tab_selected_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-mdpi-v4/vpi__tab_selected_holo.9.png"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable/abc_text_cursor_material.xml"
     },
@@ -1684,6 +1796,10 @@
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable_vpi__tab_indicator.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable/vpi__tab_indicator.xml"
+    },
+    {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/drawable/abc_btn_borderless_material.xml"
     },
@@ -1714,6 +1830,10 @@
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/color_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_vpi__tab_unselected_pressed_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-xhdpi-v4/vpi__tab_unselected_pressed_holo.9.png"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -1754,6 +1874,10 @@
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
         "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/9c9c2ef1ceb737c628ecbfb4a3e46314/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_vpi__tab_selected_focused_holo.9.png.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/4c59787f1d17acf9898f51f6e2e7b7da/res/drawable-hdpi-v4/vpi__tab_selected_focused_holo.9.png"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1850,6 +1974,10 @@
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/home/nineleaps/.gradle/caches/transforms-2/files-2.1/c24c7a40500beb2432f8cb83c0618815/res/layout/notification_template_big_media.xml"
     },
     {
         "merged": "/home/nineleaps/Documents/SmartTVApplication/SmartTVProject/app/build/intermediates/res/merged/debug/anim_btn_radio_to_on_mtrl_ring_outer_path_animation.xml.flat",
