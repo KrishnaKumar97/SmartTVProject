@@ -10,6 +10,7 @@ import androidx.fragment.app.FragmentTransaction
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import com.nineleaps.smarttv.R
+import com.nineleaps.smarttv.fragment.DefaultImageFragment
 import com.nineleaps.smarttv.fragment.ImageSliderFragment
 import com.nineleaps.smarttv.fragment.WebViewFragment
 import com.nineleaps.smarttv.model.DeviceDataModel
@@ -22,6 +23,8 @@ class MainActivity : AppCompatActivity() {
     var arrayListOfImageUrl = ArrayList<String>()
 
     var webUrl = ""
+
+    var imageUrl = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -125,16 +128,21 @@ class MainActivity : AppCompatActivity() {
                     arrayListOfImageUrl.addAll(deviceData.images!!)
                     loadFragment(ImageSliderFragment())
                 } else {
-                    webUrl = deviceData.defaultImageUrl!!
-                    loadFragment(WebViewFragment())
+                    imageUrl = deviceData.defaultImageUrl!!
+                    loadFragment(DefaultImageFragment())
                 }
             } else {
                 webUrl = deviceData.url!!
-                loadFragment(WebViewFragment())
+                if (webUrl.isEmpty()) {
+                    imageUrl = deviceData.defaultImageUrl!!
+                    loadFragment(DefaultImageFragment())
+                } else {
+                    loadFragment(WebViewFragment())
+                }
             }
         } else {
-            webUrl = deviceData.defaultImageUrl!!
-            loadFragment(WebViewFragment())
+            imageUrl = deviceData.defaultImageUrl!!
+            loadFragment(DefaultImageFragment())
         }
     }
 

@@ -19,7 +19,7 @@ class ImageSliderFragment : Fragment() {
     private var swipeTimer: Timer? = null
     private var currentPage = 0
     private var pageCount = 0
-    private val periodTime: Long = 3000
+    private val periodTime: Long = 60000
     private var handler: Handler? = null
 
     lateinit var urls: ArrayList<String>

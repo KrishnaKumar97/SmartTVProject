@@ -921,6 +921,7 @@ id ifRoom
 id image
 id image_slider_indicator
 id image_slider_pager
+id image_view
 id info
 id invisible
 id italic
@@ -1061,6 +1062,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
 layout custom_dialog
+layout default_image_fragment
 layout fragment_image_slider
 layout fragment_web_view
 layout notification_action

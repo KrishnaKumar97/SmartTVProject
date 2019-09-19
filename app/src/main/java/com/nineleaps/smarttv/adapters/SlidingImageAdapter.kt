@@ -6,22 +6,17 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
-
 import androidx.viewpager.widget.PagerAdapter
-
 import com.bumptech.glide.Glide
+import com.bumptech.glide.request.target.BitmapImageViewTarget
 import com.nineleaps.smarttv.R
 
 class SlidingImageAdapter(private val context: Context, private val urls: ArrayList<String>) :
     PagerAdapter() {
 
     // Variables
-    private val inflater: LayoutInflater
+    private val inflater: LayoutInflater = LayoutInflater.from(context)
 
-
-    init {
-        inflater = LayoutInflater.from(context)
-    }
 
     /**
      * This function is called for destroy item
@@ -41,14 +36,20 @@ class SlidingImageAdapter(private val context: Context, private val urls: ArrayL
      * This function instate Item
      */
     override fun instantiateItem(view: ViewGroup, position: Int): Any {
-        val imageLayout = inflater.inflate(R.layout.slidingimages_layout, view,
-            false)
+        val imageLayout = inflater.inflate(
+            R.layout.slidingimages_layout, view,
+            false
+        )
         val imageView = imageLayout.findViewById<View>(R.id.image) as ImageView
-
         Glide.with(context)
+            .asBitmap()
             .load(urls[position])
+            .override(1600, 1600)
+            .thumbnail(.1f)
             .fitCenter()
-            .into(imageView)
+            .into(object : BitmapImageViewTarget(imageView) {
+
+            })
         view.addView(imageLayout, 0)
         return imageLayout
     }
@@ -56,7 +57,7 @@ class SlidingImageAdapter(private val context: Context, private val urls: ArrayL
     /**
      * This function is to get View from object
      */
-    override fun isViewFromObject(view: View, value : Any): Boolean {
+    override fun isViewFromObject(view: View, value: Any): Boolean {
         return view == value
     }
 
