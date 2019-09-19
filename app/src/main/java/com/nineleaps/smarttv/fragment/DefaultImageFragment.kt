@@ -20,9 +20,9 @@ class DefaultImageFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        val view = inflater.inflate(R.layout.default_image_fragment, container, false)
+        val view = inflater.inflate(R.layout.fragment_default_image, container, false)
         imageView = view.findViewById(R.id.image_view)
-        return view
+                return view
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
@@ -32,7 +32,7 @@ class DefaultImageFragment : Fragment() {
 
 
     /**
-     * load a web view with a URL
+     * load a image from the image Url
      */
     @SuppressLint("SetJavaScriptEnabled")
     private fun loadImageFromUrl() {
