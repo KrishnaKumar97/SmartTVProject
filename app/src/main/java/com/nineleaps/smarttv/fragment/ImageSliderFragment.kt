@@ -19,8 +19,7 @@ class ImageSliderFragment : Fragment() {
     private var swipeTimer: Timer? = null
     private var currentPage = 0
     private var pageCount = 0
-    private val delayTime: Long = 1000
-    private val periodTime: Long = 1000
+    private val periodTime: Long = 3000
     private var handler: Handler? = null
 
     lateinit var urls: ArrayList<String>
@@ -50,8 +49,6 @@ class ImageSliderFragment : Fragment() {
      */
     private fun initSlider() {
         urls = (activity!! as MainActivity).getListOfImageUrl()
-        for (item in urls)
-            println("----$item")
         mPager = activity!!.findViewById(R.id.image_slider_pager) as ViewPager
         mPager!!.adapter = SlidingImageAdapter(
             activity!!,
@@ -107,11 +104,12 @@ class ImageSliderFragment : Fragment() {
             override fun run() {
                 handler?.post(update)
             }
-        }, delayTime, periodTime)
+        }, 0, periodTime)
     }
 
     override fun onDestroy() {
         super.onDestroy()
+        handler?.removeCallbacksAndMessages(null)
         swipeTimer?.cancel()
     }
 }

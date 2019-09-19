@@ -3,7 +3,6 @@ package com.nineleaps.smarttv.activity
 import android.annotation.SuppressLint
 import android.content.Context
 import android.os.Bundle
-import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
@@ -153,8 +152,9 @@ class MainActivity : AppCompatActivity() {
      */
     private fun loadFragment(fragment: Fragment) {
         supportFragmentManager.inTransaction {
-            add(R.id.fragment_container, fragment)
+            replace(R.id.fragment_container, fragment)
         }
+
     }
 
 
