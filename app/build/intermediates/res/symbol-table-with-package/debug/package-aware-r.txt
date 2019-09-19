@@ -1062,7 +1062,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
 layout custom_dialog
-layout default_image_fragment
+layout fragment_default_image
 layout fragment_image_slider
 layout fragment_web_view
 layout notification_action

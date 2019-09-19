@@ -3745,7 +3745,7 @@ public final class R {
     public static final int abc_tooltip=0x7f0a001b;
     public static final int activity_main=0x7f0a001c;
     public static final int custom_dialog=0x7f0a001d;
-    public static final int default_image_fragment=0x7f0a001e;
+    public static final int fragment_default_image=0x7f0a001e;
     public static final int fragment_image_slider=0x7f0a001f;
     public static final int fragment_web_view=0x7f0a0020;
     public static final int notification_action=0x7f0a0021;

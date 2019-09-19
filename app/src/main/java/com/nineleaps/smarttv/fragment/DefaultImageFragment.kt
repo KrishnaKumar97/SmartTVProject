@@ -22,7 +22,7 @@ class DefaultImageFragment : Fragment() {
     ): View? {
         val view = inflater.inflate(R.layout.fragment_default_image, container, false)
         imageView = view.findViewById(R.id.image_view)
-                return view
+        return view
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {

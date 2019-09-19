@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.webkit.WebChromeClient
+import android.webkit.WebSettings
 import android.webkit.WebView
 import androidx.fragment.app.Fragment
 import com.nineleaps.smarttv.R
@@ -37,6 +38,8 @@ class WebViewFragment : Fragment() {
     private fun setLinkToWebView() {
         val webUrl = (activity as MainActivity).getWebUrlForFragment()
         webView.webChromeClient = object : WebChromeClient() {}
+        webView.settings.mediaPlaybackRequiresUserGesture = false
+        webView.settings.pluginState = WebSettings.PluginState.ON;
         webView.settings.javaScriptEnabled = true
         webView.settings.domStorageEnabled = true
         webView.overScrollMode = WebView.OVER_SCROLL_NEVER
