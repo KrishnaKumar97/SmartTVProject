@@ -18,7 +18,8 @@ class FireBaseCalls {
         val key = myRef.push().key
 
         if (key != null) {
-            myRef.child(key).child("defaultImageUrl").setValue("https://www.nineleaps.com")
+            myRef.child(key).child("defaultImageUrl")
+                .setValue("https://media.glassdoor.com/l/5b/74/79/fe/nineleaps-placed-top-10-out-of-the-top-25-start-ups-in-india-for-2018.jpg")
             myRef.child(key).child("images").setValue(ArrayList<String>())
             myRef.child(key).child("isEnabled").setValue(false)
             myRef.child(key).child("location").setValue("")

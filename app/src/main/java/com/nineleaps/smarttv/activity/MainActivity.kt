@@ -12,6 +12,7 @@ import androidx.lifecycle.ViewModelProviders
 import com.nineleaps.smarttv.R
 import com.nineleaps.smarttv.fragment.DefaultImageFragment
 import com.nineleaps.smarttv.fragment.ImageSliderFragment
+import com.nineleaps.smarttv.fragment.VideoViewFragment
 import com.nineleaps.smarttv.fragment.WebViewFragment
 import com.nineleaps.smarttv.model.DeviceDataModel
 import com.nineleaps.smarttv.viewModel.MainActivityViewModel
@@ -103,6 +104,8 @@ class MainActivity : AppCompatActivity() {
                 makeCallToRegisterDevice()
             } else {
                 checkForTheContentType(it)
+
+
             }
         })
     }
@@ -130,6 +133,15 @@ class MainActivity : AppCompatActivity() {
                 } else {
                     imageUrl = deviceData.defaultImageUrl!!
                     loadFragment(DefaultImageFragment())
+                }
+            }
+            else if(deviceData.whatToShow == "videos") {
+                webUrl = deviceData.url!!
+                if(webUrl.isEmpty()) {
+                    imageUrl = deviceData.defaultImageUrl!!
+                    loadFragment(DefaultImageFragment())
+                } else {
+                    loadFragment(VideoViewFragment())
                 }
             } else {
                 webUrl = deviceData.url!!

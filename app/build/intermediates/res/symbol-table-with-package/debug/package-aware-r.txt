@@ -1009,6 +1009,7 @@ id underline
 id uniform
 id up
 id useLogo
+id video_view
 id web_view
 id wide
 id withText
@@ -1064,6 +1065,7 @@ layout activity_main
 layout custom_dialog
 layout fragment_default_image
 layout fragment_image_slider
+layout fragment_video_view
 layout fragment_web_view
 layout notification_action
 layout notification_action_tombstone
