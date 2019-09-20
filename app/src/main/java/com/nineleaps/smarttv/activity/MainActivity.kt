@@ -104,8 +104,6 @@ class MainActivity : AppCompatActivity() {
                 makeCallToRegisterDevice()
             } else {
                 checkForTheContentType(it)
-
-
             }
         })
     }
@@ -143,7 +141,7 @@ class MainActivity : AppCompatActivity() {
                 } else {
                     loadFragment(VideoViewFragment())
                 }
-            } else {
+            } else if(deviceData.whatToShow == "webPage") {
                 webUrl = deviceData.url!!
                 if (webUrl.isEmpty()) {
                     imageUrl = deviceData.defaultImageUrl!!
@@ -152,7 +150,7 @@ class MainActivity : AppCompatActivity() {
                     loadFragment(WebViewFragment())
                 }
             }
-        } else {
+        } else  {
             imageUrl = deviceData.defaultImageUrl!!
             loadFragment(DefaultImageFragment())
         }

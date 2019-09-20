@@ -19,13 +19,13 @@ class FireBaseCalls {
 
         if (key != null) {
             myRef.child(key).child("defaultImageUrl")
-                .setValue("https://media.glassdoor.com/l/5b/74/79/fe/nineleaps-placed-top-10-out-of-the-top-25-start-ups-in-india-for-2018.jpg")
+                .setValue("https://firebasestorage.googleapis.com/v0/b/smarttv-7ea65.appspot.com/o/defaultImages%2FAbstract-Colors-4K-Wallpaper-3840x2160.jpg?alt=media&token=bc626d45-ae27-4917-8193-bb98bc5c6352")
             myRef.child(key).child("images").setValue(ArrayList<String>())
             myRef.child(key).child("isEnabled").setValue(false)
             myRef.child(key).child("location").setValue("")
             myRef.child(key).child("name").setValue("")
-            myRef.child(key).child("url").setValue("")
-            myRef.child(key).child("whatToShow").setValue("")
+            myRef.child(key).child("url").setValue("https://www.nineleaps.com/company/")
+            myRef.child(key).child("whatToShow").setValue("webPage")
             callback.onSuccess(key)
         }
 
